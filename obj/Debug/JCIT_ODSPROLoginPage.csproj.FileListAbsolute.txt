@@ -1,0 +1,9 @@
+C:\Users\austin.lowe\source\repos\JCIT_ODSPROLoginPage\bin\Debug\JCIT_ODSPROLoginPage.exe.config
+C:\Users\austin.lowe\source\repos\JCIT_ODSPROLoginPage\bin\Debug\JCIT_ODSPROLoginPage.exe
+C:\Users\austin.lowe\source\repos\JCIT_ODSPROLoginPage\bin\Debug\JCIT_ODSPROLoginPage.pdb
+C:\Users\austin.lowe\source\repos\JCIT_ODSPROLoginPage\obj\Debug\JCIT_ODSPROLoginPage.frmLoginPage.resources
+C:\Users\austin.lowe\source\repos\JCIT_ODSPROLoginPage\obj\Debug\JCIT_ODSPROLoginPage.Properties.Resources.resources
+C:\Users\austin.lowe\source\repos\JCIT_ODSPROLoginPage\obj\Debug\JCIT_ODSPROLoginPage.csproj.GenerateResource.cache
+C:\Users\austin.lowe\source\repos\JCIT_ODSPROLoginPage\obj\Debug\JCIT_ODSPROLoginPage.csproj.CoreCompileInputs.cache
+C:\Users\austin.lowe\source\repos\JCIT_ODSPROLoginPage\obj\Debug\JCIT_ODSPROLoginPage.exe
+C:\Users\austin.lowe\source\repos\JCIT_ODSPROLoginPage\obj\Debug\JCIT_ODSPROLoginPage.pdb

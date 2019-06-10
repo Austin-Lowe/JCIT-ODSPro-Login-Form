@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JCIT_ODSPROLoginPage", "JCIT_ODSPROLoginPage.csproj", "{05C2AD65-3BA8-462D-9C49-5014C01B8700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C2AD65-3BA8-462D-9C49-5014C01B8700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C2AD65-3BA8-462D-9C49-5014C01B8700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C2AD65-3BA8-462D-9C49-5014C01B8700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C2AD65-3BA8-462D-9C49-5014C01B8700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14768317-B26C-454D-819B-1C9BA8F32C8F}
+	EndGlobalSection
+EndGlobal
